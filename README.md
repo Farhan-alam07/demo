@@ -1,2 +1,3 @@
 # demo
-this is my first github project.
+this is my first git repository.
+author- Farhan.
